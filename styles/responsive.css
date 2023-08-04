@@ -1,0 +1,18 @@
+/* extra small device */
+@media (max-width: 280px) {
+}
+
+/* sm devices */
+@media (min-width: 281px) and (max-width: 480px) {
+  p {
+    background-color: green;
+  }
+}
+
+/* md device */
+@media (min-width: 481px) and (max-width: 767px) {
+}
+
+/* lg device */
+@media (min-width: 768px) and (max-width: 992px) {
+}
