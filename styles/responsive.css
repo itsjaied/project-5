@@ -4,9 +4,6 @@
 
 /* sm devices */
 @media (min-width: 281px) and (max-width: 480px) {
-  p {
-    background-color: green;
-  }
 }
 
 /* md device */
